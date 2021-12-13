@@ -1,9 +1,5 @@
 ﻿README
 
-Submitter Name:	Keshav Krishna
-Roll No.:		2019csb1224
-Course:		CS303
-
 1.	What does this program do ?
 This program simulates dynamic partioning based memory placement. 
 It uses first-fit, best-fit, next-fit for placing of process memory requests in memory and reports the relative effectiveness of the three placement algorithms. 
